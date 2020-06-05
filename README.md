@@ -1,6 +1,18 @@
-# Bird Sightings
+# Bird Sightings Full Stack App
 
-Bird Sightings is a full stack JavaScript application with an Express server and MongoDB database.
+Bird Sightings is a full stack application with an Node.js Express server and MongoDB database for the back end and a Vue.js JavaScript framework for the front end.
+
+
+## Objectives
+* Carry out paired programming
+* Understand the data flow through a full stack app
+* Demonstrate the ability to make a post request from a front end application and persist the date in a database
+
+## The app performs the following
+* Allows a user to submit a form for their bird sighting which is then persisted on a database
+* The webpage displays a list of all saved bird sightings.
+* Allows the user to delete a bird sighting
+
 
 ## Getting Started
 
